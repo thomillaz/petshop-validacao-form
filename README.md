@@ -9,3 +9,5 @@ Projeto codado em acompanhamento do instrutor do curso "Javascript na Web: valid
 - Definir mensagens customizadas para validações fora do HTML;
 - utilizar *data attributes* para trabalhar com Javascript;
 - Deixar a função de validação mais genérica para funcionar com qualquer *input*;
+- Como mostrar a mensagem de erro diretamente no HTML;
+- Como customizar as mensagens de erro de validação;
