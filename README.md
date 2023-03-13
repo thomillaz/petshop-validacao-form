@@ -11,3 +11,10 @@ Projeto codado em acompanhamento do instrutor do curso "Javascript na Web: valid
 - Deixar a função de validação mais genérica para funcionar com qualquer *input*;
 - Como mostrar a mensagem de erro diretamente no HTML;
 - Como customizar as mensagens de erro de validação;
+- Validar cpf com números repetidos;
+- A matemática por trás da validação de um CPF;
+- Recursão de função;
+- Outra estrutura de *regex* para a pré validação do CEP;
+- Como fazer uma requisição para a API da ViaCEP;
+- Preencher outros campos do formulário com a resposta da API da ViaCEP;
+- Como adicionar máscara monetária para o campo de preço.
